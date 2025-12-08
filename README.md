@@ -1,2 +1,1 @@
-# .github
-laser-base specific settings and documentation
+# LASER Base - Home for LASER Disease Modeling Packages

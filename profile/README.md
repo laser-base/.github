@@ -19,6 +19,13 @@ Documentation for all LASER packages can be found at https://laser-base.github.i
 
 Contributions to code or documentation to LASER packages are always welcome! See the CONTRIBUTING file in each repository for additional information.
 
+## About IDM
+
+The Institute for Disease Modeling (IDM) is part of the Gates Foundation’s Global Health Division.
+
+IDM’s goal is to support global efforts to eradicate infectious diseases and achieve permanent improvements in health by developing, using, and sharing computational modeling tools and promoting quantitative decision-making. For more information about IDM's research and tools, see https://www.idmod.org/. 
+
+
 ## Disclaimer
 
 The code in this repository was developed by IDM and other collaborators to support our joint research on flexible agent-based modeling. We've made it publicly available under the MIT License to provide others with a better understanding of our research and an opportunity to build upon it for their own work. We make no representations that the code works as intended or that we will provide support, address issues that are found, or accept pull requests. You are welcome to create your own fork and modify the code to suit your own modeling needs as permitted under the MIT License.

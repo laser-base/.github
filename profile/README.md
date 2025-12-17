@@ -13,7 +13,7 @@ LASER's core principles can be summarized as follows:
 
 ## Documentation
 
-Documentation for all LASER packages can be found at https://laser-base.github.io/. 
+Documentation for all LASER packages can be found at https://laser-base.github.io/. You may want to start with a few of our generic (SI/SIR/SEIR etc.) model explorations in the [laser-generic tutorials](https://laser-base.github.io/laser-generic/tutorials/). If you have access to GitHub Codespaces, feel free to open the `laser-generic` repository in a Codespace (we recommend a 4-core or 8-core codespace) and run the notebooks under docs/tutorials/notebooks for yourself.
 
 ## Contributions
 

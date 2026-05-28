@@ -11,3 +11,5 @@ To solve this, we designed LASER as a set of core components with fundamental fe
 ## Get started 
 
 To get started, check out the [laser-generic docs](https://laser.idmod.org/laser-generic/), which describe how to assemble modules to create anything from simple compartmental models to more complex agent-based models with spatial dynamics for simulating the transmission of non-vector disease transmission.
+
+If you have access to GitHub Codespaces, feel free to open the `laser-generic` repository in a Codespace (we recommend a 4-core or 8-core codespace) and run the notebooks under docs/tutorials/notebooks for yourself.
